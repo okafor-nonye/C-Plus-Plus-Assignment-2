@@ -6,8 +6,8 @@
  *
  * Stub file for Programming Assignment #2
  *
- * Name:        [ OKAFOR CHUKWUNONYE IBINABO]
- * Matric No:   [ 46239964AC]
+ * Name:        [ OKAFOR CHUKWUNONYE IBINABO ]
+ * Matric No:   [ 46239964AC ]
  * Department:  [ MATHEMATICS/STATISTICS ]
  *
  */
