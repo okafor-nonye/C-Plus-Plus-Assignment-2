@@ -1,1 +1,2 @@
 # C-Plus-Plus-Assignment-2
+An application that prompts for a person’s information, instantiates an object of class HealthProfile for that person and prints the Information from that object—including the person’s first name, last name, gender, date of birth, height and weight—then calculates and prints the person’s age in years, BMI, maximum heart rate and target--‐heart--‐rate range. It also displays the “BMI values” chart.
