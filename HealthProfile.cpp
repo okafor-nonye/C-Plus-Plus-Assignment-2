@@ -5,8 +5,8 @@
  *
  * Stub file for Programming Assignment #2
  *
- * Name:        [ OIKU MARY OMOAREAHU]
- * Matric No:   [ 45411301HF]
+ * Name:        [ OKAFOR CHUKWUNONYE IBINABO ]
+ * Matric No:   [ 46239964AC ]
  * Department:  [ MATHEMATICS/STATISTICS ]
  *
  */
